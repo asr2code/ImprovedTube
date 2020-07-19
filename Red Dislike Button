@@ -1,0 +1,21 @@
+<script>
+function myFunction() {
+document.getElementById("demo").style.backgroundColor = "#FF0000"
+}
+  
+</script>
+<html>
+<head>
+<title>Test Page</title>
+</head>
+<body>
+
+<h1>Red Dislike Button</h1>
+<p>
+<button id="demo" onclick="myFunction()">Dislike</button>
+
+
+</p>
+
+</body>
+</html>
